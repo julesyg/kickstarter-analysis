@@ -9,7 +9,7 @@ This analysis was performed on a wide dataset, sorted and organized to ascertain
 We can see that campaign success is greatly effected by launch date. ![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png) 
 
 We can also see that fundraising success is also effected by goal.
-![
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 Some challenges and difficulties encountered in this analysis occurred with creating tables and data manipulation. 
 
