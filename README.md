@@ -5,7 +5,7 @@ Louise is a playwright hoping to launch a theatre production with a budget of $1
 
 ## ANALYSIS & CHALLENGES
 
-This analysis was performed on a wide dataset, sorted and organized to ascertain the factors important to achieve a successful fundraising campaign. We can access the entire dataset here. 
+This analysis was performed on a wide dataset, sorted and organized to ascertain the factors important to achieve a successful fundraising campaign. We can access the entire dataset here. [Copy _Kickstarter_Challenge.xlsx.zip](path/to/Copy_Kickstarter_Challenge.xlsx.zip)
 
 We can see that campaign success is greatly effected by launch date. ![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png) 
 
